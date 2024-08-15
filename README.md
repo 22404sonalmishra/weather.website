@@ -1,0 +1,1 @@
+Developed a responsive Weather Dashboard using HTML, CSS, and JavaScript. The application provides real-time weather information based on user location or searched cities, demonstrating integration with third-party APIs and handling asynchronous JavaScript operations."# weather.website
